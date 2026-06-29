@@ -1,7 +1,7 @@
 ## 👋, I'm Artem C.
 
    **Web3 & Blockchain Developer | Rust Specialist | Security Enthusiast**
-  📍 Ukraine (UTC+3) | 🚀 Open to Freelance (Crypto Payment Only!)
+  📍 Ukraine (UTC+3) | 🚀 Open to Freelance 
 
 ## 🚀 **What I Do**
 
@@ -24,4 +24,4 @@
 - **Email**: magicanscript@proton.me
 - **Telegram**: https://t.me/magican_script
 
-                                              *"Building the decentralized future, one Rust function at a time."*
+  *"Building the decentralized future, one Rust function at a time."*
