@@ -1,22 +1,22 @@
-## 👋, I'm Artem C.
+## 👋 Hi, I'm Artem — Solana & Rust Developer
 
-   **Web3 & Blockchain Developer | Rust Specialist | Security Enthusiast**
-  📍 Ukraine (UTC+3) | 🚀 Open to Freelance 
+ 📍 Ukraine (UTC+3) · 🌐 Available for freelance work
+**Smart contracts (Anchor) · On-chain programs · Rust tooling · Security-minded**
 
 ## 🚀 **What I Do**
 
-- **Smart Contracts**: Rust-based programs for Solana (Anchor framework).
-- **Blockchain Tools**: Custom scripts and utilities for Web3 workflows.
-- **System Optimization**: Secure, performant Linux environments for development and deployment.
-- **Freelance Collaboration**: Open to **unofficial work arrangements** and flexible project scopes.
+- **Solana programs** - Anchor-based smart contracts: staking, escrow, SPL tokens, PDAs, CPIs.
+- **Rust tooling** - CLIs and daemons for monitoring, automation, and Web3 workflows.
+- **Security-minded design** - Explicit state machines, authority checks, overflow-safe math.
+- **System Optimization** - Secure, performant Linux environments for development and deployment.
+
 
 ## 💡 **Why Work With Me?**
 
-- **Rust Expertise**: High-level proficiency with a focus on **performance and security**.
-- **Web3 Passion**: Deep interest in Solana and decentralized systems.
-- **Sysadmin Skills**: Linux administration for robust deployments.
-- **Flexibility**: Prefer **unofficial, results-driven** collaborations.
-- **Crypto-Friendly**: No banks, no hassle — just direct payments in crypto.
+- **Rust Expertise** - High-level proficiency with a focus on **performance and security**.
+- **Web3 Passion** - Deep interest in Solana and decentralized systems.
+- **Sysadmin Skills** - Linux administration for robust deployments.
+- **Comfortable** - with both crypto and fiat payments.
 
 ## 📫 **Let’s Connect**
 
