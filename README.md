@@ -24,4 +24,5 @@
 - **Email**: magicanscript@proton.me
 - **Telegram**: https://t.me/magican_script
 
-  *"Building the decentralized future, one Rust function at a time."*
+
+*"Building the decentralized future, one Rust function at a time."*(c)
