@@ -7,7 +7,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [magican-spl-staking](https://github.com/magicanscript/magican-spl-staking) | SPL staking with Synthetix-style rewards, 11 LiteSVM tests |
+| [magican-spl-staking](https://github.com/magicanscript/magican-spl-staking) | SPL staking with Synthetix-style rewards, 10 LiteSVM tests |
 | [magican-oracle-escrow](https://github.com/magicanscript/magican-oracle-escrow) | Oracle-verified P2P escrow with a formal state machine |
 | [magican-cli-sentinel](https://github.com/magicanscript/magican-cli-sentinel) | Async Rust CLI that monitors validator health and alerts |
 
