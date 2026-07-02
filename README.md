@@ -1,8 +1,15 @@
 ## 👋 Hi, I'm Artem — Solana & Rust Developer
 
  📍 Ukraine (UTC+3) · 🌐 Available for freelance work
+ **Smart contracts (Anchor) · On-chain programs · Rust tooling · Security-minded**
 
-## **Smart contracts (Anchor) · On-chain programs · Rust tooling · Security-minded**
+### 📌 Selected work
+
+| Project | Description |
+|---------|-------------|
+| [magican-spl-staking](https://github.com/magicanscript/magican-spl-staking) | SPL staking with Synthetix-style rewards, 11 LiteSVM tests |
+| [magican-oracle-escrow](https://github.com/magicanscript/magican-oracle-escrow) | Oracle-verified P2P escrow with a formal state machine |
+| [magican-cli-sentinel](https://github.com/magicanscript/magican-cli-sentinel) | Async Rust CLI that monitors validator health and alerts |
 
 ## 🚀 **What I Do**
 
@@ -17,7 +24,7 @@
 - **Rust Expertise** - High-level proficiency with a focus on **performance and security**.
 - **Web3 Passion** - Deep interest in Solana and decentralized systems.
 - **Sysadmin Skills** - Linux administration for robust deployments.
-- **Comfortable** - with both crypto and fiat payments.
+- **Payments** - Comfortable with both crypto and fiat payments.
 
 ## 📫 **Let’s Connect**
 
@@ -26,4 +33,4 @@
 - **Telegram**: https://t.me/magican_script
 
 
-*"Building the decentralized future, one Rust function at a time."*(c)
+*"Building the decentralized future, one Rust function at a time."*
