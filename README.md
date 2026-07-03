@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Artem — Solana & Rust Developer
+## 👋 Hi, I'm Artem — Rust developer & systems engineer → Solana
 
  📍 Ukraine (UTC+3) · 🌐 Available for freelance work
  **Smart contracts (Anchor) · On-chain programs · Rust tooling · Security-minded**
