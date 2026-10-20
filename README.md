@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-## 👋 Hi, I'm Artem — Rust developer & Solana systems engineer 
-=======
 ## 👋 Hi, I'm Artem — Rust developer & systems engineer
->>>>>>> 96da132 (update:profile-info)
-
 
 ### 📌 Selected work
 
