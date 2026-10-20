@@ -1,7 +1,9 @@
+<<<<<<< HEAD
 ## 👋 Hi, I'm Artem — Rust developer & Solana systems engineer 
+=======
+## 👋 Hi, I'm Artem — Rust developer & systems engineer
+>>>>>>> 96da132 (update:profile-info)
 
- 📍 Ukraine (UTC+3) · 🌐 Available for freelance work
- **Smart contracts (Anchor) · On-chain programs · Rust tooling **
 
 ### 📌 Selected work
 
@@ -18,13 +20,6 @@
 - **Security-minded design** - Explicit state machines, authority checks, overflow-safe math.
 - **System Optimization** - Secure, performant Linux environments for development and deployment.
 
-
-## 💡 **Why Work With Me?**
-
-- **Rust Expertise** - High-level proficiency with a focus on **performance and security**.
-- **Web3 Passion** - Deep interest in Solana and decentralized systems.
-- **Sysadmin Skills** - Linux administration for robust deployments.
-- **Payments** - Comfortable with both crypto and fiat payments.
 
 ## 📫 **Let’s Connect**
 
